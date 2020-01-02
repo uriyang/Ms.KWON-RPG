@@ -5,7 +5,8 @@
 - [] 읽어본 후 체크해주세요.
 
 > > A1. 
-- [x] 코딩하기
+- [x] 마크다운 사용법 글을 읽어보기
+
 
 > Q2. 아래의 JavaScript 소스코드에 마크다운으로 JavaScript 포맷팅을 지원하는 형태를 적용해보세요.
 ```
@@ -24,15 +25,17 @@ let myVariable = 'Bob';
 
 > Q3. 마크다운으로 google 링크를 걸어보세요.
 
->> A3. [google](http://www.google.co.kr)
+>> A3. [google](https://www.google.co.kr)
+
 
 > Q4. 이미지를 넣어보세요.
 
 >> A4. ![reactmove](https://react-move.js.org/build/0d8f226bece940bf16186ce709e59c63.png)
 
+
 > Q5. 궁금한 점을 마크다운 포맷으로 적어주세요
 
 ```
 # 감사합니다.^^
-__실무에서 마크다운이 따로 사용되는 경우가 있는지 궁금합니다.__
+## 실무에서 마크다운이 따로 사용되는 경우가 있는지 궁금합니다.
 ```
