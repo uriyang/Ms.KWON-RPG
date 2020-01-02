@@ -10,11 +10,16 @@
 ```
 let myVariable = 'Bob';
 ```
-> > A2. ```javascript
 
-'''let myVariable = 'Bob';'''
+> > A2. 
+
+
+```javascript
+
+let myVariable = 'Bob';
 
 ```
+
 
 > Q3. 마크다운으로 google 링크를 걸어보세요.
 
@@ -25,6 +30,7 @@ let myVariable = 'Bob';
 >> A4. ![reactmove](https://react-move.js.org/build/0d8f226bece940bf16186ce709e59c63.png)
 
 > Q5. 궁금한 점을 마크다운 포맷으로 적어주세요
+
 ```
 # 감사합니다.^^
 실무에서 마크다운이 따로 사용되는 경우가 있는지 궁금합니다.
